@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://ea.tranvanhao.com/</loc>
+  <lastmod>2022-12-01T06:23:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ea.tranvanhao.com/index.html</loc>
+  <lastmod>2022-12-01T06:23:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ea.tranvanhao.com/gioi-thieu/index.html</loc>
+  <lastmod>2022-12-01T06:23:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ea.tranvanhao.com/code-trading/index.html</loc>
+  <lastmod>2022-12-01T06:23:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ea.tranvanhao.com/danh-muc/code/index.html</loc>
+  <lastmod>2022-12-01T06:23:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ea.tranvanhao.com/bang-gia/index.html</loc>
+  <lastmod>2022-12-01T06:23:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ea.tranvanhao.com/quy-trinh/index.html</loc>
+  <lastmod>2022-12-01T06:23:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
